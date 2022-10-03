@@ -17,5 +17,7 @@
 
 #[Project :2 Bad Word Filter or Censor](https://github.com/tariqahmedproject/Filter_Bad_words)
 
+#in This Project we can easily filter or censor bad words from text file and we can also make custom bad words file  
+
 
 

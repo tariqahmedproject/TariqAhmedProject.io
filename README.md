@@ -15,4 +15,7 @@
 ![](https://github.com/tariqahmedproject/TariqAhmedProject.io/blob/main/images/1.JPG)
 
 
+# [Project :2 Bad Word Filter or Censor] (https://github.com/tariqahmedproject/Filter_Bad_words)
+
+
 

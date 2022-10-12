@@ -50,6 +50,8 @@ Also we can add anthor option to take sample photo from local drive.
 
 **Final Output**
 Here is the result
+
+
 ![output result](https://user-images.githubusercontent.com/104884506/195243333-4b0e89b6-354a-4160-9b34-3f758a517fc7.jpeg)
 
 

@@ -69,6 +69,6 @@ to prepare for the PCEP-30-01/PCEP-30-02 exams at the Python Institute.
 **MY OVERALL RESULT IS 82%.**
 
 for more information:
-[PYTHON CERTIFCATION EXAM PCEP-30-01/PCEP-30-02 PREPARTION](https://www.udemy.com/course/pcep-certification-python-exam-practice-tests/)
+[PYTHON CERTIFCATION EXAM PCEP-30-01/PCEP-30-02 PREPARTION](https://github.com/tariqahmedproject/python-udemy-test)
 
 

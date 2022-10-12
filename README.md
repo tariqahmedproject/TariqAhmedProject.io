@@ -1,6 +1,10 @@
 # TariqAhmedProject.io
 **This Is My Project Portfolio**
 
+
+# Criminal Face Recognition
+
+
 [Project 1: Criminal Face Recognition](https://github.com/tariqahmedproject/Criminal-Face-Recognition)
 
 *The Face Recognition system In which admin input details about criminal like name , father name and other details and photo of criminal and the system process the photo and compare the with database and show output about the photo this person is criminal or not .
@@ -25,6 +29,8 @@ for more information click : [Criminal Face Recognition](https://github.com/tari
 
 
 
+# Bad Word Filter or Censor
+
 
 [Project :2 Bad Word Filter or Censor](https://github.com/tariqahmedproject/Filter_Bad_words)
 
@@ -45,5 +51,22 @@ for more information click : [Criminal Face Recognition](https://github.com/tari
 ![Final Output of filter words in text file](https://user-images.githubusercontent.com/104884506/195245425-3d5bd402-17ad-4d9c-865b-7a406fa08f8a.JPG)
 
 for more information: [Bad Word Filter or Censor](https://github.com/tariqahmedproject/Filter_Bad_words)
+
+
+
+# PYTHON CERTIFCATION EXAM PCEP-30-01/PCEP-30-02 PREPARTION
+
+
+[PYTHON CERTIFCATION EXAM PCEP-30-01/PCEP-30-02 PREPARTION](https://www.udemy.com/course/pcep-certification-python-exam-practice-tests/)
+
+
+Python Institute PCEP-30-01/PCEP-30-02: Certified Entry-Level Python Programmer
+
+There are six Practice Tests with preparation questions from all knowledge areas
+
+to prepare for the PCEP-30-01/PCEP-30-02 exams at the Python Institute.
+
+for more information:
+[PYTHON CERTIFCATION EXAM PCEP-30-01/PCEP-30-02 PREPARTION](https://www.udemy.com/course/pcep-certification-python-exam-practice-tests/)
 
 

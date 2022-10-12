@@ -1,9 +1,9 @@
 # TariqAhmedProject.io
-**This Is My Portfolio**
+**This Is My Project Portfolio**
 
 [Project 1: Criminal Face Recognition](https://github.com/tariqahmedproject/Criminal-Face-Recognition)
 
-*The Face Recognition system In which user input details about criminal like name , father name and other details and photo of criminal and the system process the photo and compare the with database and show output about the photo this person is criminal or not .
+*The Face Recognition system In which admin input details about criminal like name , father name and other details and photo of criminal and the system process the photo and compare the with database and show output about the photo this person is criminal or not .
 
 *Automatic criminal identification system  by  detecting  the  face  of  criminals. This will help Police to identify and catch the criminals in public places. Matching a face with available database accurately.
 
@@ -13,6 +13,7 @@
 
 **Main Menu**
 This is our main menu in this section there are three section.
+
 1) CFR, In this section we can store data about criminal like name , father name and sample photo etc.
 2) Criminal Face Recognition
 3) Password change

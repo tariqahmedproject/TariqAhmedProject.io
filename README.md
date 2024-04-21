@@ -1,7 +1,33 @@
 # TariqAhmedProject.io
 **This Is My Project Portfolio**
 
+# Cisco Python certification
+Cisco Python certification! in collaboration with OpenEDG Python Institute 
 
+for more information click : https://drive.google.com/file/d/1GnAeIdlmfEQe1mcOJCqs_KPrrWfPpnv3/view?usp=sharing
+
+# Nacttc Advanced Python Programming course 
+ This is Government Coure which is under Navttc  program  (Advanced Python Programming course).
+ This is 3 month course in which i learn about Python Programming , Data Science , Machine Learning.
+
+# PYTHON CERTIFCATION EXAM PCEP-30-01/PCEP-30-02 PREPARTION
+
+
+[PYTHON CERTIFCATION EXAM PCEP-30-01/PCEP-30-02 PREPARTION](https://www.udemy.com/course/pcep-certification-python-exam-practice-tests/)
+
+
+Python Institute PCEP-30-01/PCEP-30-02: Certified Entry-Level Python Programmer
+
+There are six Practice Tests with preparation questions from all knowledge areas
+
+to prepare for the PCEP-30-01/PCEP-30-02 exams at the Python Institute.
+
+**MY OVERALL RESULT IS 82%.**
+
+for more information:
+[PYTHON CERTIFCATION EXAM PCEP-30-01/PCEP-30-02 PREPARTION](https://github.com/tariqahmedproject/python-udemy-test)
+
+ 
 # Criminal Face Recognition
 
 
@@ -54,30 +80,7 @@ for more information: [Bad Word Filter or Censor](https://github.com/tariqahmedp
 
 
 
-# PYTHON CERTIFCATION EXAM PCEP-30-01/PCEP-30-02 PREPARTION
 
 
-[PYTHON CERTIFCATION EXAM PCEP-30-01/PCEP-30-02 PREPARTION](https://www.udemy.com/course/pcep-certification-python-exam-practice-tests/)
-
-
-Python Institute PCEP-30-01/PCEP-30-02: Certified Entry-Level Python Programmer
-
-There are six Practice Tests with preparation questions from all knowledge areas
-
-to prepare for the PCEP-30-01/PCEP-30-02 exams at the Python Institute.
-
-**MY OVERALL RESULT IS 82%.**
-
-for more information:
-[PYTHON CERTIFCATION EXAM PCEP-30-01/PCEP-30-02 PREPARTION](https://github.com/tariqahmedproject/python-udemy-test)
-
-# Cisco Python certification
-Cisco Python certification! in collaboration with OpenEDG Python Institute 
-
-for more information click : https://drive.google.com/file/d/1GnAeIdlmfEQe1mcOJCqs_KPrrWfPpnv3/view?usp=sharing
-
-# Nacttc Advanced Python Programming course 
- This is Government Coure which is under Navttc  program  (Advanced Python Programming course).
- This is 3 month course in which i learn about Python Programming , Data Science , Machine Learning.
  
 

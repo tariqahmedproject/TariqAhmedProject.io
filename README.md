@@ -72,6 +72,10 @@ for more information:
 [PYTHON CERTIFCATION EXAM PCEP-30-01/PCEP-30-02 PREPARTION](https://github.com/tariqahmedproject/python-udemy-test)
 
 
-# Cisco Python certification! in collaboration with OpenEDG Python Institute
-https://drive.google.com/file/d/1GnAeIdlmfEQe1mcOJCqs_KPrrWfPpnv3/view?usp=sharing
+[Cisco Python certification! in collaboration with OpenEDG Python Institute]
+for more information click : https://drive.google.com/file/d/1GnAeIdlmfEQe1mcOJCqs_KPrrWfPpnv3/view?usp=sharing
+
+ [Advanced Python Programming course! which are under Navttc  program.]
+ This is 3 month courese in which i learn about Python Programming , Data Science , Machine Learning.
+ 
 

@@ -72,8 +72,6 @@ for more information:
 [PYTHON CERTIFCATION EXAM PCEP-30-01/PCEP-30-02 PREPARTION](https://github.com/tariqahmedproject/python-udemy-test)
 
 
-
-# Solve 30+ Programming Problems.
-[Click Here For all Problem with solution](https://github.com/tariqahmedproject/50-days-programming/blob/main/README.md)
-
+# Cisco Python certification! in collaboration with OpenEDG Python Institute
+https://drive.google.com/file/d/1GnAeIdlmfEQe1mcOJCqs_KPrrWfPpnv3/view?usp=sharing
 

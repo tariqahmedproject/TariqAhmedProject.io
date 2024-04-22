@@ -53,7 +53,8 @@ This is our main menu in this section there are three section.
 for more information click : [Criminal Face Recognition](https://github.com/tariqahmedproject/Criminal-Face-Recognition)
 
 
-
+# Movies EDA Project
+for more info: [Movies EDA Project](https://github.com/tariqahmedproject/MoviesEDA/blob/main/README.md)
 
 # Bad Word Filter or Censor
 

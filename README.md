@@ -28,6 +28,14 @@ for more information:
 [PYTHON CERTIFCATION EXAM PCEP-30-01/PCEP-30-02 PREPARTION](https://github.com/tariqahmedproject/python-udemy-test)
 
 ## My Projects 
+
+# Movie-Based-Recommendation
+Movie Recommendation based on score(Rating) and popularity score.
+
+This project implements a basic movie recommendation system that combines a movie's average rating and its popularity score to suggest movies for users. The system assigns equal weight (50%) to both factors to provide balanced recommendations.
+
+For more info: [Movie Recommendation based on score(Rating) and popularity score](https://github.com/tariqahmedproject/Movie-Based-Recommendation/tree/main)
+
 # Criminal Face Recognition
 
 

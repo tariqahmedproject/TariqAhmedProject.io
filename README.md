@@ -30,13 +30,11 @@ for more information:
 ## My Projects 
 
 # Movie-Based-Recommendation
-Movie Recommendation based on score(Rating) and popularity score.
+This is Movie Recommendation System with Content-Based Filtering and this system recommends movies based on their content (overview, genres, keywords) and how similar they are to a user's chosen movie
 
-This project implements a basic movie recommendation system that combines a movie's average rating and its popularity score to suggest movies for users. The system assigns equal weight (50%) to both factors to provide balanced recommendations.
+![Movie Recommendation](https://github.com/tariqahmedproject/TariqAhmedProject.io/blob/main/images/Movie%20Recomend.JPG)
 
-![Movie Recommendation](https://github.com/tariqahmedproject/TariqAhmedProject.io/blob/main/images/score%20and%20population.JPG)
-
-For more info: [Movie Recommendation based on score(Rating) and popularity score](https://github.com/tariqahmedproject/Movie-Based-Recommendation/tree/main)
+For more info: [Movie Recommendation](https://github.com/tariqahmedproject/Movies_Recommendation_system)
 
 # Criminal Face Recognition
 

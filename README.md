@@ -36,6 +36,12 @@ This is Movie Recommendation System with Content-Based Filtering and this system
 
 For more info: [Movie Recommendation](https://github.com/tariqahmedproject/Movies_Recommendation_system)
 
+# Car Price Prediction
+Car Price Prediction using Linear Regression
+
+This project tackles the challenge of predicting used car prices using linear regression, a fundamental machine learning technique. The model estimates a linear relationship between various car features and their corresponding market prices based on ar Name (Brand & Model) Manufacturer Company Fuel Type (e.g., gasoline, diesel, electric) Kilometers Driven (odometer reading) Year of Manufacture.
+
+for more info:[Car Price Prediction](https://github.com/tariqahmedproject/Car_Price_Prediction)
 # Criminal Face Recognition
 
 

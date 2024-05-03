@@ -36,6 +36,14 @@ This is Movie Recommendation System with Content-Based Filtering and this system
 
 For more info: [Movie Recommendation](https://github.com/tariqahmedproject/Movies_Recommendation_system)
 
+
+# Movie-Based-Recommendation With Flask
+
+Flask web application that implements a content-based movie recommendation system. Users can enter a movie title, and the system will recommend similar movies based on their genres, keywords, and other features.
+![](https://github.com/tariqahmedproject/TariqAhmedProject.io/blob/main/images/Main%20page.JPG)
+![](https://github.com/tariqahmedproject/TariqAhmedProject.io/blob/main/images/result.JPG)
+
+for more info: [Movie Recommendation With Flask](https://github.com/tariqahmedproject/Movie-Recommendation-System-With-Flask)
 # Car Price Prediction
 Car Price Prediction using Linear Regression
 
